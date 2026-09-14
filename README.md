@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a  software engineer /full stack developer that works on internal tools and integration with access control system, mainly backend dev<br>My stack is NodeJs Express and Nest, PostgreSQL, Prisma, React, NextJs<br>Currently an in house software engineer and this is my portfolio https://webportfolio-two-omega.vercel.app
+I am a  Software Engineer || Full Stack Developer that works on internal tools and integration with access control system, mainly backend dev<br>My stack is NodeJs Express and Nest, PostgreSQL, Prisma, React, NextJs<br>Currently an in house software engineer and this is my portfolio https://webportfolio-two-omega.vercel.app
 
 
 ## 🌐 Socials:
